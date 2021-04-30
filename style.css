@@ -1,0 +1,22 @@
+.myDiv {
+        border: 15px checkered orange;
+        background-color: darkblue;
+        text-align: center;
+        height: 50%;
+        width: 50%;
+        padding-top: 50px;
+        padding-right: 50px;
+        padding-bottom: 50px;
+        padding-left: 50px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
+
+.tr {
+       background-color: palevioletred;
+       font-size: 30px;
+       
+
+}
